@@ -19,3 +19,7 @@ function mojaFunkcja(imie) {
 
   console.log(message);
 }
+
+
+git config --global user.name “Grzegorz Junatowski”
+git config --global user.email junatowski@gmil.com
