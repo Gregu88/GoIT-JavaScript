@@ -66,5 +66,5 @@ const mango = new User({
   email: "mango@mail.com",
 });
 
-mango.changeEmail("mango@supermail.com");
+//mango.changeEmail("mango@supermail.com");
 console.log(mango.getEmail());
